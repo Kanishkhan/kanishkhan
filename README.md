@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kanishkhan</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
-- 👨‍💻 All of my projects are available at **https://kanishkhanportfolio.netlify.app/**
+- 👨‍💻 All of my projects are available at <a href="https://kanishkhanportfolio.netlify.app/" target="_blank">https://kanishkhanportfolio.netlify.app/</a>
 - 📫 How to reach me **kanishkhan1209@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
