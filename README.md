@@ -109,15 +109,13 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kanishkhan&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kanishkhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanishkhan&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanishkhan&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkhan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkhan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanishkhan&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="48%" />
 </p>
 
 ---
@@ -125,7 +123,15 @@
 ### 🏆 GitHub Trophies:
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kanishkhan&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kanishkhan&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 📈 Contribution Graph:
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanishkhan&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
