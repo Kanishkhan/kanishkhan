@@ -108,11 +108,6 @@
 
 ---
 
-### 🏆 GitHub Trophies:
-
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=kanishkhan&theme=tokyonight&no-frame=true&margin-w=6&row=1&column=6" alt="GitHub Trophies" /> </p>>
-
----
 
 ### 📈 Contribution Graph:
 
