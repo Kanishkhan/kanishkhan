@@ -104,22 +104,13 @@
 
 ### 📊 GitHub Stats:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kanishkhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkhan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" height="180em" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanishkhan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kanishkhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" width="48%" /> <img src="https://streak-stats.demolab.com?user=kanishkhan&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkhan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanishkhan&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="48%" /> </p>
 
 ---
 
 ### 🏆 GitHub Trophies:
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kanishkhan&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=kanishkhan&theme=tokyonight&no-frame=true&margin-w=6&row=1&column=6" alt="GitHub Trophies" /> </p>>
 
 ---
 
