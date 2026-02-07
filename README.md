@@ -102,9 +102,38 @@
 
 ---
 
-### 📊 GitHub Stats:
+---
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kanishkhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" width="48%" /> <img src="https://streak-stats.demolab.com?user=kanishkhan&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkhan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanishkhan&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="48%" /> </p>
+### 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=kanishkhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"
+    alt="GitHub Stats"
+    width="48%"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=kanishkhan&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+    width="48%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkhan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Top Languages"
+    width="48%"
+  />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=kanishkhan&theme=tokyo-night&hide_border=true&area=true"
+    alt="Contribution Graph"
+    width="48%"
+  />
+</p>
+
+---
+
 
 ---
 
