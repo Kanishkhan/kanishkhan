@@ -25,9 +25,6 @@ I'm a **Full Stack Developer** specializing in the **MERN stack**, with a passio
 - 📫 **Let's Connect**: **kanishkhan1209@gmail.com** 
 
 ---
-
-## 🛠️ Tech Stack
-
 <div align="center">
 
 ### 💻 Programming Languages
@@ -40,6 +37,7 @@ I'm a **Full Stack Developer** specializing in the **MERN stack**, with a passio
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### ⚙️ Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -48,6 +46,15 @@ I'm a **Full Stack Developer** specializing in the **MERN stack**, with a passio
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🧠 AI & Data Science
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 👓 AR/VR & Specialized Tech
+![Meta Spark](https://img.shields.io/badge/Meta_Spark-0088FF?style=for-the-badge&logo=meta&logoColor=white)
+![Web Speech API](https://img.shields.io/badge/Web_Speech_API-F7DF1E?style=for-the-badge&logo=w3c&logoColor=black)
 
 ### ☁️ DevOps & Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -59,7 +66,6 @@ I'm a **Full Stack Developer** specializing in the **MERN stack**, with a passio
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
-
 ---
 
 ## 🚀 Featured Projects
@@ -85,7 +91,7 @@ I'm a **Full Stack Developer** specializing in the **MERN stack**, with a passio
 - Built responsive UI with smooth animations and micro-interactions
 - Developed RESTful API with proper error handling and validation
 
-🔗 **[Live Demo](https://nrgk-fashion.netlify.app/)** | **[Repository](https://github.com/LinguaAble/Accessible-Language-Learning-Platform)**
+🔗 **[Live Demo](https://github.com/LinguaAble/Accessible-Language-Learning-Platform)** | **[Repository](https://github.com/LinguaAble/Accessible-Language-Learning-Platform)**
 
 </details>
 
@@ -107,7 +113,7 @@ I'm a **Full Stack Developer** specializing in the **MERN stack**, with a passio
 - Phase 1: Frontend implementation with HTML/CSS/JavaScript ✅
 - Phase 2: Full-stack MERN architecture designed for scalability ✅
 
-🔗 **[Repository](https://github.com/Kanishkhan/MERN-Ecommerce-Staxtech)**
+🔗 **[Live Demo](https://nrgk-fashion.netlify.app/)** | **[Repository](https://github.com/Kanishkhan/MERN-Ecommerce-Staxtech)**
 
 </details>
 
@@ -233,8 +239,8 @@ const kanishkhan = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kanishkhan)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kanishkhan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanishkhan@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kanishkhanportfolio.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanishkhan1209@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kanishkhan)
 
 </div>
