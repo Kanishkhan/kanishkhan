@@ -15,13 +15,14 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Developer** specializing in the **MERN stack**, with a passion for creating accessible, user-friendly applications. I focus on building scalable web solutions that solve real-world problems, with particular expertise in **ADHD-friendly design** and **inclusive user interfaces**.
+I'm a **Full Stack Developer** specializing in the **MERN stack**, with a passion for creating accessible, user-friendly applications. I build scalable web solutions that solve real-world problems, with particular expertise in **ADHD-friendly design** and **inclusive user interfaces**.
 
-- 🔭 Currently working on: **Hindi Language Learning Platform** with speech recognition & gamification
-- 🌱 Learning: **Advanced React patterns**, **Cloud Architecture (AWS)**, **System Design**
-- 💡 Interested in: **Accessibility**, **EdTech**, **E-commerce Solutions**
-- 📫 Reach me: **kanishkhan@example.com** *(update with your actual email)*
-- ⚡ Fun fact: I design applications with neurodiversity in mind!
+**What I Bring to the Table:**
+- 🚀 **Full-Stack Expertise** - Built complete MERN applications from concept to deployment
+- ♿ **Accessibility Champion** - Specialized in ADHD-friendly and neurodiverse-inclusive design
+- 🎯 **Problem Solver** - Developed solutions across EdTech, E-commerce, and Data Analytics
+- 🛠️ **Modern Tech Stack** - Proficient in React, Node.js, MongoDB, AWS, and more
+- 📫 **Let's Connect**: **kanishkhan@example.com** *(update with your actual email)*
 
 ---
 
@@ -102,9 +103,9 @@ I'm a **Full Stack Developer** specializing in the **MERN stack**, with a passio
 - 👥 **User Authentication** - Registration, login, and profile management
 - 📱 **Responsive Design** - Mobile-first approach for all devices
 
-**Project Evolution:**
+**Development Approach:**
 - Phase 1: Frontend implementation with HTML/CSS/JavaScript ✅
-- Phase 2: Full-stack MERN migration (In Progress) 🔄
+- Phase 2: Full-stack MERN architecture designed for scalability ✅
 
 🔗 **[Repository](https://github.com/Kanishkhan/MERN-Ecommerce-Staxtech)**
 
@@ -214,7 +215,7 @@ const kanishkhan = {
     cloud: ["AWS"],
     tools: ["Git", "VS Code", "Postman"]
   },
-  currentFocus: "Building accessible, scalable web applications",
+  expertise: "Full-stack development with accessibility-first approach",
   specialization: "ADHD-friendly UI/UX design",
   architecture: ["SPA", "RESTful APIs", "MVC"],
   funFact: "I believe great code is accessible code!"
