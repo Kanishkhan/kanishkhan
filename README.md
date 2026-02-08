@@ -124,7 +124,7 @@ I'm a **Full Stack Developer** specializing in the **MERN stack**, with a passio
 - 📊 Weather forecasts and historical data
 - 🎨 Clean, intuitive user interface
 
-🔗 **[Live Demo](#)** | **[Repository](https://github.com/Kanishkhan/Portable-Weather)**
+🔗 **[Live Demo](https://portable-weather-station.netlify.app/)** | **[Repository](https://github.com/Kanishkhan/Portable-Weather)**
 
 </details>
 
@@ -141,7 +141,7 @@ I'm a **Full Stack Developer** specializing in the **MERN stack**, with a passio
 - ⚡ Real-time processing
 - 💾 Export functionality
 
-🔗 **[Repository](https://github.com/Kanishkhan/Text-Intel-Engine)**
+🔗**[Live Demo](https://text-intel-engine.netlify.app/)** | **[Repository](https://github.com/Kanishkhan/Text-Intel-Engine)**
 
 </details>
 
@@ -158,7 +158,7 @@ I'm a **Full Stack Developer** specializing in the **MERN stack**, with a passio
 - 🔄 Automated data processing
 - 📱 Interactive dashboard
 
-🔗 **[Repository](https://github.com/Kanishkhan/Weather-Data-Analyzer)**
+🔗**[Live Demo](https://weather-insight-ml.netlify.app/)** | **[Repository](https://github.com/Kanishkhan/Weather-Data-Analyzer)**
 
 </details>
 
@@ -175,17 +175,13 @@ I'm a **Full Stack Developer** specializing in the **MERN stack**, with a passio
 - ♿ Accessibility-focused
 - 🎨 Professional UI/UX
 
-🔗 **[Live Demo](#)** | **[Repository](https://github.com/Kanishkhan/psychologist-website)**
+🔗 **[Live Demo](https://mayareynoldspsychologist.vercel.app/)** | **[Repository](https://github.com/Kanishkhan/psychologist-website)**
 
 </details>
 
 ---
 
 ## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkhan&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanishkhan&theme=tokyonight" alt="GitHub Streak" />
