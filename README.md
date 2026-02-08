@@ -192,6 +192,8 @@ I'm a **Full Stack Developer** specializing in the **MERN stack**, with a passio
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanishkhan&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
+### 📈 Contribution Graph
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanishkhan&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
