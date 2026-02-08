@@ -85,7 +85,7 @@ I'm a **Full Stack Developer** specializing in the **MERN stack**, with a passio
 - Built responsive UI with smooth animations and micro-interactions
 - Developed RESTful API with proper error handling and validation
 
-🔗 **[Live Demo](#)** | **[Repository](https://github.com/LinguaAble/Accessible-Language-Learning-Platform)**
+🔗 **[Live Demo](https://nrgk-fashion.netlify.app/)** | **[Repository](https://github.com/LinguaAble/Accessible-Language-Learning-Platform)**
 
 </details>
 
