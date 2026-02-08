@@ -25,6 +25,9 @@ I'm a **Full Stack Developer** specializing in the **MERN stack**, with a passio
 - 📫 **Let's Connect**: **kanishkhan1209@gmail.com** 
 
 ---
+
+## 🛠️ Tech Stack
+
 <div align="center">
 
 ### 💻 Programming Languages
@@ -52,12 +55,12 @@ I'm a **Full Stack Developer** specializing in the **MERN stack**, with a passio
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### 👓 AR/VR & Specialized Tech
-![Meta Spark](https://img.shields.io/badge/Meta_Spark-0088FF?style=for-the-badge&logo=meta&logoColor=white)
+### 🌐 Specialized Tech
 ![Web Speech API](https://img.shields.io/badge/Web_Speech_API-F7DF1E?style=for-the-badge&logo=w3c&logoColor=black)
 
 ### ☁️ DevOps & Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
@@ -66,6 +69,7 @@ I'm a **Full Stack Developer** specializing in the **MERN stack**, with a passio
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
+
 ---
 
 ## 🚀 Featured Projects
