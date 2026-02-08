@@ -22,7 +22,7 @@ I'm a **Full Stack Developer** specializing in the **MERN stack**, with a passio
 - ♿ **Accessibility Champion** - Specialized in ADHD-friendly and neurodiverse-inclusive design
 - 🎯 **Problem Solver** - Developed solutions across EdTech, E-commerce, and Data Analytics
 - 🛠️ **Modern Tech Stack** - Proficient in React, Node.js, MongoDB, AWS, and more
-- 📫 **Let's Connect**: **kanishkhan@example.com** *(update with your actual email)*
+- 📫 **Let's Connect**: **kanishkhan1209@gmail.com** 
 
 ---
 
@@ -85,7 +85,7 @@ I'm a **Full Stack Developer** specializing in the **MERN stack**, with a passio
 - Built responsive UI with smooth animations and micro-interactions
 - Developed RESTful API with proper error handling and validation
 
-🔗 **[Live Demo](#)** | **[Repository](https://github.com/Kanishkhan/language-learning-app)**
+🔗 **[Live Demo](#)** | **[Repository](https://github.com/LinguaAble/Accessible-Language-Learning-Platform)**
 
 </details>
 
@@ -184,7 +184,6 @@ I'm a **Full Stack Developer** specializing in the **MERN stack**, with a passio
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kanishkhan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkhan&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
