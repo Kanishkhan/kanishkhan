@@ -168,7 +168,7 @@ I'm a **Full Stack Developer** specializing in the **MERN stack**, with a passio
 - 🔄 Automated data processing
 - 📱 Interactive dashboard
 
-🔗**[Live Demo](https://weather-insight-ml.netlify.app/)** | **[Repository](https://github.com/Kanishkhan/Weather-Data-Analyzer)**
+🔗 **[Live Demo](https://weather-insight-ml.netlify.app/)** | **[Repository](https://github.com/Kanishkhan/Weather-Data-Analyzer)**
 
 </details>
 
@@ -241,7 +241,7 @@ const kanishkhan = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kanishkhan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanishkhan-j-688145253/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kanishkhan)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kanishkhanportfolio.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanishkhan1209@gmail.com)
