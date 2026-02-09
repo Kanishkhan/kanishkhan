@@ -151,7 +151,7 @@ I'm a **Full Stack Developer** specializing in the **MERN stack**, with a passio
 - ⚡ Real-time processing
 - 💾 Export functionality
 
-🔗**[Live Demo](https://text-intel-engine.netlify.app/)** | **[Repository](https://github.com/Kanishkhan/Text-Intel-Engine)**
+🔗 **[Live Demo](https://text-intel-engine.netlify.app/)** | **[Repository](https://github.com/Kanishkhan/Text-Intel-Engine)**
 
 </details>
 
